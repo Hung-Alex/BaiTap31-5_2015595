@@ -1,7 +1,7 @@
 ﻿
 namespace labBaiTap
 {
-    partial class Form1
+    partial class frmQuanLySinhVien
     {
         /// <summary>
         /// Required designer variable.
@@ -215,13 +215,13 @@ namespace labBaiTap
             this.chLop.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.chLop.Width = 150;
             // 
-            // Form1
+            // frmQuanLySinhVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(864, 620);
             this.Controls.Add(this.splitContainer1);
-            this.Name = "Form1";
+            this.Name = "frmQuanLySinhVien";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quản lý sinh viên";
             this.Load += new System.EventHandler(this.Form1_Load);

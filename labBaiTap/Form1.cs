@@ -11,10 +11,10 @@ using System.Windows.Forms;
 
 namespace labBaiTap
 {
-    public partial class Form1 : Form
+    public partial class frmQuanLySinhVien : Form
     {
         List<SinhVien> qlSinhvien;
-        public Form1()
+        public frmQuanLySinhVien()
         {
             InitializeComponent();
         }
