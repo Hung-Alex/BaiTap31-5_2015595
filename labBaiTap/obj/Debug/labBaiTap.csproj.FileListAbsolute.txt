@@ -1,0 +1,10 @@
+C:\Users\phamn\source\repos\labBaiTap\bin\Debug\labBaiTap.exe.config
+C:\Users\phamn\source\repos\labBaiTap\bin\Debug\labBaiTap.exe
+C:\Users\phamn\source\repos\labBaiTap\bin\Debug\labBaiTap.pdb
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.csproj.AssemblyReference.cache
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.Form1.resources
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.Properties.Resources.resources
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.csproj.GenerateResource.cache
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.csproj.CoreCompileInputs.cache
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.exe
+C:\Users\phamn\source\repos\labBaiTap\obj\Debug\labBaiTap.pdb
