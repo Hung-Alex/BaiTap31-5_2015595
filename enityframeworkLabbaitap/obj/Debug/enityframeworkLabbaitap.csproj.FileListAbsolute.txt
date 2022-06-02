@@ -1,0 +1,15 @@
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\enityframeworkLabbaitap.exe.config
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\enityframeworkLabbaitap.exe
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\enityframeworkLabbaitap.pdb
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\EntityFramework.dll
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\EntityFramework.xml
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.csproj.AssemblyReference.cache
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.Form1.resources
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.Properties.Resources.resources
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.csproj.GenerateResource.cache
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.csproj.CoreCompileInputs.cache
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.csproj.CopyComplete
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.exe
+C:\Users\phamn\source\repos\enityframeworkLabbaitap\obj\Debug\enityframeworkLabbaitap.pdb
